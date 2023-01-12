@@ -1,0 +1,10 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f1f1f1;
+    background-color: #14161a;
+    font-family: Arial, Helvetica, sans-serif;
+}
